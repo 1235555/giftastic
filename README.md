@@ -1,5 +1,5 @@
 # Giftastic
-  week 6 homework giftastic
+  Week 6 homework giftastic
 
 ### Assignment
 
