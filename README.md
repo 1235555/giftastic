@@ -1,14 +1,11 @@
 # Giftastic
   week 6 homework giftastic
-# GifTastic
 
 ### Assignment
 
 In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
 
 ![GIPHY](Images/1-giphy.jpg)
-
-### Before You Begin
 
 1. **Hit the GIPHY API**.
    * Fool around with the GIPHY API. [Giphy API](https://developers.giphy.com/docs/).
@@ -23,12 +20,9 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
    * You should have a high-level understanding of how this assignment works before attempting to code it.
 
+  * Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
-### Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-### Instructions
+### Steps / Instructions
 
 1. Before you can make any part of our site work, you need to create an array of strings, each one related to a topic that interests you. Save it to a variable called `topics`.
    * We chose animals for our theme, but you can make a list to your own liking.
@@ -48,6 +42,4 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
 7. Deploy your assignment to Github Pages.
 
-8. **Rejoice**! You just made something really cool.
 
-- - -
